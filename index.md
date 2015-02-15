@@ -8,11 +8,13 @@ title: Weichao Guo
 <td>
 <img style="width: 150px; height: 200px;" src="/images/portrait.jpg" />
 </td>
+<td style="width: 50px;">
+</td>
 <td>
-Email: guoweichao@mail.com
+Email: <a href="mailto:guoweichao@mail.com">guoweichao@mail.com</a>
 <br>
 <br>
-Ph.D Candidate
+Ph.D. Candidate
 <br>
 <a href="http://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a><br>
 <a href="http://www.tsinghua.edu.cn/">Tsinghua University</a><br>
@@ -25,13 +27,13 @@ Beijing 100084, China
 <br>
 <br>
 
-I am a Ph.D candidate at the Department of Computer Science and Technology at Tsinghua University.  
+I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University.  
 I'm working under the guidance of Professor Weimin Zheng and Yongwei Wu in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
-My research interests include storage techniques, mobile and operating systems, and distributed systems. My resume is available [here](http://madsys.cs.tsinghua.edu.cn/).
+My research interests include storage techniques, mobile and operating systems, and distributed systems. My resume is available [here](/files/resume.pdf).
 
 ## Education
 ---
-* Ph.D student, Department of Computer Science and Technology,
+* Ph.D. student, Department of Computer Science and Technology,
 [Tsinghua University](http://www.tsinghua.edu.cn/), Sep.2011 - Present
 * B.E., School of Software, [Harbin Institute of Technology](http://www.hit.edu.cn/), Sep.2007 - July 2011
 

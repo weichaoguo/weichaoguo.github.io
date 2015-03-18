@@ -39,9 +39,9 @@ My research interests include storage techniques, mobile and operating systems, 
 
 ## Publications
 ---
-* Yongwei Wu, __Weichao Guo__, Jinglei Ren, Xun Zhao, and Weiming Zheng.  
-[NO2: Speeding Up Parallel Processing of Massive Compute-Intensive Tasks](http://dx.doi.org/10.1109/TC.2013.132)  
+* Bidding for Highly Available Services with Low Price in Spot Instance Market  
+__Weichao Guo__, Kang Chen, Yongwei Wu, and Weiming Zheng.  
+To appear in the 24th ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC '15).
+* [NO2: Speeding Up Parallel Processing of Massive Compute-Intensive Tasks](http://dx.doi.org/10.1109/TC.2013.132)  
+Yongwei Wu, __Weichao Guo__, Jinglei Ren, Xun Zhao, and Weiming Zheng.  
 IEEE Transactions on Computers (TC), Vol. 63, No. 10, pp. 2487 - 2499, Oct. 2014.
-* Jinglei Ren, Bo Wang, __Weichao Guo__, Yongwei Wu, and Weimin Zheng.  
-Rebasable File Systems for Enhanced Management of Virtual Machines.  
-Presented in the Poster Section of OSDI 12.

@@ -39,9 +39,12 @@ My research interests include storage techniques, mobile and operating systems, 
 
 ## Publications
 ---
+* MARS: Mobile Application Relaunching Speed-up through Flash-Aware Page Swapping  
+__Weichao Guo__, Kang Chen, Huan Feng, Yongwei Wu, Rui Zhang and Weiming Zheng.  
+Accepted and to appear in IEEE Transactions on Computers (__TC__).
 * Bidding for Highly Available Services with Low Price in Spot Instance Market  
 __Weichao Guo__, Kang Chen, Yongwei Wu, and Weiming Zheng.  
-To appear in the 24th ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC '15).
+To appear in the 24th International ACM Symposium on High-Performance Parallel and Distributed Computing (__HPDC '15__).
 * [NO2: Speeding Up Parallel Processing of Massive Compute-Intensive Tasks](http://dx.doi.org/10.1109/TC.2013.132)  
 Yongwei Wu, __Weichao Guo__, Jinglei Ren, Xun Zhao, and Weiming Zheng.  
-IEEE Transactions on Computers (TC), Vol. 63, No. 10, pp. 2487 - 2499, Oct. 2014.
+IEEE Transactions on Computers (__TC__), Vol. 63, No. 10, pp. 2487 - 2499, Oct. 2014.

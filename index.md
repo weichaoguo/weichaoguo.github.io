@@ -27,8 +27,8 @@ Beijing 100084, China
 <br>
 <br>
 
-I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University.  
-I'm working under the guidance of Professor Weimin Zheng and Yongwei Wu in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
+I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Weimin Zheng \& Prof. Yongwei Wu.  
+I'm working under the guidance of Prof. Yongwei Wu and Associate Prof. Kang Chen in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
 My research interests include storage techniques, mobile and operating systems, and distributed systems. My resume is available [here](/files/resume.pdf).
 
 ## Education

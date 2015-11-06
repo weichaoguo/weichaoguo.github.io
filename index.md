@@ -11,7 +11,7 @@ title: Weichao Guo
 <td style="width: 50px;">
 </td>
 <td>
-Email: <a href="mailto:guoweichao@mail.com">guoweichao AT msn DOT com</a>
+Email: <a href="mailto:guoweichao@msn.com">guoweichao@msn.com</a>
 <br>
 <br>
 Ph.D. Candidate
@@ -30,7 +30,7 @@ Beijing 100084, China
 I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html) & Prof. [Yongwei Wu](http://madsys.cs.tsinghua.edu.cn/~yongweiwu).  
 I'm working under the guidance of Prof. Yongwei Wu & Associate Prof. Kang Chen in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
 My research interests include storage techniques, mobile and operating systems, and distributed systems. My resume is available [here](/files/resume.pdf).  
-<span style="color:red">Note: I'm on the job market, looking forward to a position in both academic and industry field. If you are interested to me, please contact me.</span>
+<span style="color:red">Note: I'm on the job market, looking forward to a position in academic or industry field. If you are interested to me, please contact me.</span>
 
 ## Education
 ---

@@ -30,6 +30,7 @@ Beijing 100084, China
 I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html) & Prof. [Yongwei Wu](http://madsys.cs.tsinghua.edu.cn/~yongweiwu).  
 I'm working under the guidance of Prof. Yongwei Wu & Associate Prof. Kang Chen in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
 My research interests include storage techniques, mobile and operating systems, and distributed systems. My resume is available [here](/files/resume.pdf).
+<span style="color:red">Note: I'm on the job market, looking forward to a position in both academic and industry field. If you are interested to me, please contact me.</span>
 
 ## Education
 ---
@@ -48,3 +49,13 @@ Proceedings of the 24th International ACM Symposium on High-Performance Parallel
 * [NO2: Speeding Up Parallel Processing of Massive Compute-Intensive Tasks](http://dx.doi.org/10.1109/TC.2013.132)  
 Yongwei Wu, __Weichao Guo__, Jinglei Ren, Xun Zhao, and Weiming Zheng.  
 IEEE Transactions on Computers (__TC__), Vol. 63, No. 10, pp. 2487 - 2499, Oct. 2014.
+
+## Honors & Awards
+---
+* National Scholarship, 2014 - 2015
+* Second-Class Outstanding Scholarship, Tsinhua University, 2013 - 2014
+* Outstanding Graduate Award, Heilongjiang Province, 2011
+* First Price, Northeast Mathematical Contest in Modeling, 2010
+* Second Price, National College Information Security Competition, 2010
+* National Scholarship, 2008 - 2009
+* First-Class People Scholarship, Harbin Institute of Technology, 2008, 2009,2010

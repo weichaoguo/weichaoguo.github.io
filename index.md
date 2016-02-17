@@ -6,7 +6,7 @@ title: Weichao Guo
 <table>
 <tr>
 <td>
-<img style="width: 150px; height: 200px;" src="/images/portrait.jpg" />
+<!--<img style="width: 150px; height: 200px;" src="/images/portrait.jpg" />-->
 </td>
 <td style="width: 50px;">
 </td>

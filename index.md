@@ -3,16 +3,16 @@ layout: page
 title: Weichao Guo
 ---
 {% include JB/setup %}
+<!--
 <table>
 <tr>
-<!--
 <td>
 <img style="width: 150px; height: 200px;" src="/images/portrait.jpg" />
 </td>
 <td style="width: 50px;">
 </td>
--->
 <td>
+-->
 Email: <a href="mailto:guoweichao@msn.com">guoweichao@msn.com</a>
 <br>
 <br>
@@ -23,9 +23,11 @@ Ph.D. Candidate
 <br>Address:<br>
 FIT 3-122, Tsinghua University<br>
 Beijing 100084, China
+<!--
 </td>
 </tr>
 </table>
+-->
 <br>
 <br>
 

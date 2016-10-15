@@ -16,13 +16,12 @@ title: Weichao Guo
 Email: <a href="mailto:guoweichao@msn.com">guoweichao@msn.com</a>
 <br>
 <br>
-Ph.D. Candidate
+Senior Engineer
 <br>
-<a href="http://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a><br>
-<a href="http://www.tsinghua.edu.cn/">Tsinghua University</a><br>
+Euler Lab, Huawei Inc.<br>
 <br>Address:<br>
-FIT 3-122, Tsinghua University<br>
-Beijing 100084, China
+Huawei Building, #3 Xinxi Road, Haidian District<br>
+Beijing 100083, China
 <!--
 </td>
 </tr>
@@ -31,16 +30,14 @@ Beijing 100084, China
 <br>
 <br>
 
-I am a Ph.D. candidate at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html).  
-I'm working under the guidance of Prof. Yongwei Wu & Associate Prof. Kang Chen in the [Madsys Group](http://madsys.cs.tsinghua.edu.cn/).  
-My research interests include cloud computing, storage techniques, and mobile systems. My resume is available [here](/files/resume.pdf).  
-<!--<span style="color:red">Note: I'm on the job market, looking forward to a position in academic or industry field. If you are interested to me, please contact me.</span>
--->
+I am an Engineer at HULK (Huawei Unifined Linux Kernel) Team. Currently, I am working on optimizing file system design for smartphones.
+I got my Ph.D. degree at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html).
+My research interests include operating systems, storage techniques, and mobile systems.
 
 ## Education
 ---
-* Ph.D. student, Department of Computer Science and Technology,
-[Tsinghua University](http://www.tsinghua.edu.cn/), Sep.2011 - Present
+* Ph.D., Department of Computer Science and Technology,
+[Tsinghua University](http://www.tsinghua.edu.cn/), Sep.2011 - July 2016
 * B.E., School of Software, [Harbin Institute of Technology](http://www.hit.edu.cn/), Sep.2007 - July 2011
 
 ## Publications

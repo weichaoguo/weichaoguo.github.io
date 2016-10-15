@@ -30,7 +30,7 @@ Beijing 100083, China
 <br>
 <br>
 
-I am an Engineer at HULK (Huawei Unifined Linux Kernel) Team. Currently, I am working on optimizing file system design for smartphones.
+I am an Engineer at HULK (Huawei Unifined Linux Kernel) Team.
 I got my Ph.D. degree at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html).
 My research interests include operating systems, storage techniques, and mobile systems.
 

@@ -91,7 +91,17 @@
 
     {% include JB/analytics %}
 
-
+    <script type="text/javascript">
+    var reversedEmail = document.getElementById("email").innerText;
+    document.getElementById("email").addEventListener('copy', function(e) {
+        var selection = window.getSelection().toString();
+        if (reversedEmail.indexOf(selection) >= 0) {
+            var normalText = selection.split("").reverse().join("");
+            e.clipboardData.setData("text/plain", normalText);
+        }
+        e.preventDefault();
+    });
+    </script>
     <!-- Latest compiled and minified JavaScript, requires jQuery 1.x (2.x not supported in IE8) -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>

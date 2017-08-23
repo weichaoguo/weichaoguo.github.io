@@ -13,14 +13,17 @@ title: Weichao Guo
 </td>
 <td>
 -->
-Email: <a href="mailto:guoweichao@msn.com">guoweichao@msn.com</a>
+Email:
+<span id="email" style="unicode-bidi:bidi-override; direction: rtl;">
+    moc.iewauh@oahciewoug
+</span>
 <br>
 <br>
 Senior Engineer
 <br>
-Euler Lab, Huawei Inc.<br>
+OS Kernel Lab, Huawei Inc.<br>
 <br>Address:<br>
-Huawei Building, #3 Xinxi Road, Haidian District<br>
+Huawei Q27 Building, #156 Beiqing Road, Haidian District<br>
 Beijing 100083, China
 <!--
 </td>

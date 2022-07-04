@@ -19,12 +19,9 @@ Email:
 </span>
 <br>
 <br>
-Senior Engineer
+Staff Engineer
 <br>
-OS Kernel Lab, Huawei Inc.<br>
-<br>Address:<br>
-Huawei Q27 Building, #156 Beiqing Road, Haidian District<br>
-Beijing 100083, China
+OS Kernel Team, Oppo Mobile Communications Co, Ltd.<br>
 <!--
 </td>
 </tr>
@@ -33,7 +30,7 @@ Beijing 100083, China
 <br>
 <br>
 
-I am an Engineer at Huawei OS Kernel Lab.
+I am an Engineer at OPPO OS Kernel Team. Before joining OPPO, I was a Senior Engineer at Huawei OS Kernel Lab & Alibaba Cloud Storage Team.
 I got my Ph.D. degree at the Department of Computer Science and Technology at Tsinghua University, advised by Prof. [Weimin Zheng](http://www.tsinghua.edu.cn/publish/csen/4623/2010/20101224201009017453352/20101224201009017453352_.html) & [Yongwei Wu](http://madsys.cs.tsinghua.edu.cn/~yongweiwu/).
 My research interests include operating systems, storage techniques, and mobile systems.
 

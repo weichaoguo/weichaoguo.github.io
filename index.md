@@ -19,7 +19,7 @@ Email:
 </span>
 <br>
 <br>
-Staff Engineer
+Principal Engineer
 <br>
 OS Kernel Team, Oppo Mobile Communications Co, Ltd.<br>
 <!--
